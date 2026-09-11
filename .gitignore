@@ -1,0 +1,12 @@
+# Rendszer és környezeti konfigurációk kizárása
+.conda/
+.config/
+.copilot/
+.redhat/
+.vscode/
+
+# Log fájlok és ideiglenes adatok
+*.txt
+*.json
+*.fish
+logs/
